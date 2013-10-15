@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Procedures>
+     <Procedure>
+          <code>1332</code>
+          <description>IV injection</description>
+          <cost>26.44</cost>
+     </Procedure>
+     <Procedure>
+          <code>1425</code>
+          <description>cat scan</description>
+          <cost>738.44</cost>
+     </Procedure>
+     <Procedure>
+          <code>1467</code>
+          <description>MRI</description>
+          <cost>10489.00</cost>
+     </Procedure>
+     <Procedure>
+          <code>1562</code>
+          <description>Throat exam</description>
+          <cost>156.21</cost>
+     </Procedure>
+     <Procedure>
+          <code>2432</code>
+          <description>Bone Jointure</description>
+          <cost>327.94</cost>
+     </Procedure>
+     <Procedure>
+          <code>5546</code>
+          <description>Cast Removal</description>
+          <cost>108.50</cost>
+     </Procedure>
+     <Procedure>
+          <code>5578</code>
+          <description>Apply Leaches</description>
+          <cost>31.15</cost>
+     </Procedure>
+</Procedures>
